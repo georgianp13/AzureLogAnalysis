@@ -94,5 +94,3 @@ Through this project, you have gained practical experience in:
 - **Turn Off VMs**: Ensure all virtual machines are powered down to avoid unnecessary costs.
 - **Security Best Practices**: Always use strong, unique passwords for VM access, and configure firewalls to restrict unauthorized access to services like RDP, SSH, and SQL.
 - **Cost Monitoring**: Leverage Azure’s cost analysis tools to keep track of expenses and optimize your resource usage.
-
-**End of ReadMe.**
